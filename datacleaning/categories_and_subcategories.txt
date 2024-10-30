@@ -1,0 +1,135 @@
+
+Number of categories: 15
+Category: Any Other Cyber Crime
+Sub-categories:
+  - Other
+
+Category: Child Pornography CPChild Sexual Abuse Material CSAM
+Sub-categories:
+  - No sub-categories (count: 0)
+
+Category: Cryptocurrency Crime
+Sub-categories:
+  - Cryptocurrency Fraud
+
+Category: Cyber Attack/ Dependent Crimes
+Sub-categories:
+  - Data Breach/Theft
+  - Denial of Service (DoS)/Distributed Denial of Service (DDOS) attacks
+  - Malware Attack
+  - Hacking/Defacement
+  - SQL Injection
+  - Ransomware Attack
+  - Tampering with computer source documents
+
+Category: Cyber Terrorism
+Sub-categories:
+  - Cyber Terrorism
+
+Category: Hacking  Damage to computercomputer system etc
+Sub-categories:
+  - Email Hacking
+  - Unauthorised AccessData Breach
+  - Website DefacementHacking
+  - Damage to computer computer systems etc
+  - Tampering with computer source documents
+
+Category: Online Cyber Trafficking
+Sub-categories:
+  - Online Trafficking
+
+Category: Online Financial Fraud
+Sub-categories:
+  - Fraud CallVishing
+  - UPI Related Frauds
+  - Internet Banking Related Fraud
+  - DebitCredit Card FraudSim Swap Fraud
+  - EWallet Related Fraud
+  - Business Email CompromiseEmail Takeover
+  - DematDepository Fraud
+
+Category: Online Gambling  Betting
+Sub-categories:
+  - Online Gambling  Betting
+
+Category: Online and Social Media Related Crime
+Sub-categories:
+  - Cyber Bullying  Stalking  Sexting
+  - Online Job Fraud
+  - Profile Hacking Identity Theft
+  - Cheating by Impersonation
+  - FakeImpersonating Profile
+  - Provocative Speech for unlawful acts
+  - Online Matrimonial Fraud
+  - Impersonating Email
+  - EMail Phishing
+  - Intimidating Email
+
+Category: Ransomware
+Sub-categories:
+  - Ransomware
+
+Category: RapeGang Rape RGRSexually Abusive Content
+Sub-categories:
+  - No sub-categories (count: 0)
+
+Category: Report Unlawful Content
+Sub-categories:
+  - Against Interest of sovereignty or integrity of India
+
+Category: Sexually Explicit Act
+Sub-categories:
+  - No sub-categories (count: 0)
+
+Category: Sexually Obscene material
+Sub-categories:
+  - No sub-categories (count: 0)
+
+-------------------------------------
+Number of Sub-Categories for Each Category:
+
+Category: Any Other Cyber Crime
+Number of Sub-categories: 1
+
+Category: Child Pornography CPChild Sexual Abuse Material CSAM
+Number of Sub-categories: 0
+
+Category: Cryptocurrency Crime
+Number of Sub-categories: 1
+
+Category: Cyber Attack/ Dependent Crimes
+Number of Sub-categories: 7
+
+Category: Cyber Terrorism
+Number of Sub-categories: 1
+
+Category: Hacking  Damage to computercomputer system etc
+Number of Sub-categories: 5
+
+Category: Online Cyber Trafficking
+Number of Sub-categories: 1
+
+Category: Online Financial Fraud
+Number of Sub-categories: 7
+
+Category: Online Gambling  Betting
+Number of Sub-categories: 1
+
+Category: Online and Social Media Related Crime
+Number of Sub-categories: 10
+
+Category: Ransomware
+Number of Sub-categories: 1
+
+Category: RapeGang Rape RGRSexually Abusive Content
+Number of Sub-categories: 0
+
+Category: Report Unlawful Content
+Number of Sub-categories: 1
+
+Category: Sexually Explicit Act
+Number of Sub-categories: 0
+
+Category: Sexually Obscene material
+Number of Sub-categories: 0
+
